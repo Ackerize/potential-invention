@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/potential-invention/static/css/main.9fa3a646.chunk.css",
+    "main.js": "/potential-invention/static/js/main.80d71487.chunk.js",
+    "main.js.map": "/potential-invention/static/js/main.80d71487.chunk.js.map",
+    "runtime-main.js": "/potential-invention/static/js/runtime-main.0e94a472.js",
+    "runtime-main.js.map": "/potential-invention/static/js/runtime-main.0e94a472.js.map",
+    "static/js/2.c34569f8.chunk.js": "/potential-invention/static/js/2.c34569f8.chunk.js",
+    "static/js/2.c34569f8.chunk.js.map": "/potential-invention/static/js/2.c34569f8.chunk.js.map",
+    "index.html": "/potential-invention/index.html",
+    "static/css/main.9fa3a646.chunk.css.map": "/potential-invention/static/css/main.9fa3a646.chunk.css.map",
+    "static/js/2.c34569f8.chunk.js.LICENSE.txt": "/potential-invention/static/js/2.c34569f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e94a472.js",
+    "static/js/2.c34569f8.chunk.js",
+    "static/css/main.9fa3a646.chunk.css",
+    "static/js/main.80d71487.chunk.js"
+  ]
+}
